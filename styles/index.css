@@ -1,0 +1,240 @@
+/* FOOTER */
+footer {
+    padding: 1rem 0;
+    background: #2C3E50;
+    color: white;
+}
+.foot-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+.foot-2 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.foot-3 {
+    display: flex;
+    justify-content: space-between;
+}
+.foot-3 article {
+    display: flex;
+    gap: 1rem;
+}
+
+/* PRESENTACION DE LAS PAGINAS */
+.presentacion {
+    max-width: 80%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 15rem);
+    gap: 1rem;
+    margin: 2rem auto;
+}
+.presentacion_bicicletas {
+    grid-column: span 2;
+}
+.presentacion_accesorios {
+    grid-column: span 2;
+}
+.presentacion_marcas {
+    background: hsl(0,0%,90%);
+}
+.presentacion .pp {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.presentacion_banner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.4);
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.presentacion_banner {
+    text-decoration: none;
+    color: white;
+}
+.presentacion div img {
+    width: 100%;
+    height: 100%;
+}
+
+/* WRAPPED */
+.wrapped {
+    width: 90%;
+    max-width: 1300px;
+    min-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+/* MAIN */ 
+main.main {
+    margin-top: 5rem;
+}
+
+/* HEADER */
+.header-main {
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 50;
+}
+.header-content {
+    display: flex;
+    justify-content: space-between;
+}
+.section-header-1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 1rem;
+    font-weight: bolder;
+}
+.img-logo-header {
+    width: 3rem;
+}
+
+/* BANNER */
+.banner {
+    max-width: 100%;
+    overflow-x: hidden;
+    position: relative;
+}
+.banner-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-text p {
+    font-size: 3rem;
+    color: white;
+    font-weight: bolder;
+}
+
+/* BANNERS */
+/* presentacion de pagina */
+.banner-pagina {
+    background-image: url(../images/fondo-bicicleta.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: hsl(0,0%,30%);
+    background-blend-mode: darken;
+}
+.banner-pagina_text {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+    height: 100%;
+}
+.banner-pagina_text section {
+    margin: auto 0;
+    font-weight: bold;
+    color: white;
+}
+.banner-pagina_text img {
+    width: 80%;
+}
+
+section.text-2 {
+    display: flex;
+    justify-content: center;
+}
+/* MARQUEE */
+marquee {
+    background: #95A5A6;
+    color: white;
+}
+
+/* PAGINA MARCAS */
+.marcas-logos {
+    display: grid;
+    grid-template-columns: repeat(2, 25%);
+    justify-content: center;
+    gap: 2rem;
+    margin: 1rem 0;
+    width: 100%;
+}
+.marcas-logos article {
+    border-width: 4px;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+
+/* CENTER */
+.center {
+    text-align: center;
+}
+
+/* PAGINA ROPA */
+.grid-ropa {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    gap: 2rem;
+    justify-content: center;
+}
+.ellipsis-5 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+/* UL > LI MARKER */
+.marker li::marker{
+    content: '\1F6B2  ';
+}
+
+/* DISPLAY */
+.block {
+    display: block;
+}
+.inline {
+    display: inline;
+}
+
+/* PAGINA DE LOS PRODUCTOS BICICLETA */
+.presentacion-de-producto {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 3rem;
+}
+.presentacion-de-producto img {
+    width: 100%;
+}
+.presentacion-de-producto .imagenes {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 4fr 1fr;
+    grid-template-rows: repeat(2, 1fr);
+}
+.imagenes_principal {
+    grid-row: span 2;
+}
+.presentacion-de-producto .descripcion {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
