@@ -7,7 +7,7 @@ Cesar Eliud Rodriguez Añorve - 603 - 05/06/2022
 
 La pagina esta dedicada a las personas que les gusta el ejercicio, las bicicletas o probar nuevas experiencia relacionadas con las bicicletas.
 
-Es un sitio tipo tienda online pero no es una tienda online, sino recopila informacion sobre las bicletas y demas accesorios de diferente tienda en linea y se reune en este sitio web.
+Es un sitio tipo tienda online pero no es una tienda online, sino recopila informacion sobre las bicicletas y demas accesorios de diferente tienda en linea y se reune en este sitio web.
 
 Va dirijido a las personas que quieran comprar bicicletas de algunos tipos, accesorios, calzado, ropa y demas, ademas de una pequeña informacion sobre marcas de bicicletas.
 
