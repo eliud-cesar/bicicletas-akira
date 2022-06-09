@@ -10,6 +10,7 @@ Reunir vinculos de productos en tiendas online y ponerlas en un solo sitio web. 
 
 ## A quien va dirigido
 A las personas que les gusta el ejercicio, las bicicletas o probar nuevas experiencia relacionadas con las bicicletas.
+Es un sitio tipo tienda online pero no es una tienda online, sino recopila informacion sobre las bicicletas y demas accesorios de diferente tienda en linea y se reune en este sitio web.
 
 ![Bicicleta](./images/bike.jpg)
 
@@ -27,8 +28,5 @@ A las personas que les gusta el ejercicio, las bicicletas o probar nuevas experi
 | Marcas | Cannondale | Cube | Merida | Giant | Orbea | Scott | 7 |
 | **Total** |  |  |  |  |  |  | **31** |
 
-
-## Tecnologias usadas
+## Libreria css
 - Booswatch
-- HTML
-- CSS
