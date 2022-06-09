@@ -3,13 +3,15 @@ Cesar Eliud Rodriguez Añorve - 603 - 05/06/2022
 
 [Link del sitio web](https://eliud-cesar.github.io/bicicletas-akira/)
 
-<br>
+## Objetivo de la pagina
+Su objetivo es reunir la informacion sobre marcas, precios, descripciones, informacion de los productos y bicicletas en un solo sitio web para que lluege a las personas correctas sobre como comprar ese producto.
 
-La pagina esta dedicada a las personas que les gusta el ejercicio, las bicicletas o probar nuevas experiencia relacionadas con las bicicletas.
+Reunir vinculos de productos en tiendas online y ponerlas en un solo sitio web. Para que el usuario no ande navegando con 20 pestañas en el navegador.
 
-Es un sitio tipo tienda online pero no es una tienda online, sino recopila informacion sobre las bicletas y demas accesorios de diferente tienda en linea y se reune en este sitio web.
+## A quien va dirigido
+A las personas que les gusta el ejercicio, las bicicletas o probar nuevas experiencia relacionadas con las bicicletas.
 
-Va dirijido a las personas que quieran comprar bicicletas de algunos tipos, accesorios, calzado, ropa y demas, ademas de una pequeña informacion sobre marcas de bicicletas.
+![Bicicleta](./images/bike.jpg)
 
 <br>
 
@@ -26,5 +28,7 @@ Va dirijido a las personas que quieran comprar bicicletas de algunos tipos, acce
 | **Total** |  |  |  |  |  |  | **31** |
 
 
-## Libreria css
+## Tecnologias usadas
 - Booswatch
+- HTML
+- CSS
