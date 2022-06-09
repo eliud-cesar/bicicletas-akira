@@ -28,5 +28,7 @@ Es un sitio tipo tienda online pero no es una tienda online, sino recopila infor
 | Marcas | Cannondale | Cube | Merida | Giant | Orbea | Scott | 7 |
 | **Total** |  |  |  |  |  |  | **31** |
 
-## Libreria css
+## Tecnologias usadas
 - Booswatch
+- HTML
+- CSS
